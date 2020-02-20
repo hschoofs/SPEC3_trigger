@@ -13,7 +13,7 @@
           "architecture": "samd",
           "version": "0.0.1",
           "category": "Contributed",
-          "url": "https://github.com/robotics-masters/mm1-hat-arduino/blob/master/custom_board/RoboHat-0.0.24.zip?raw=true",
+          "url": "https://github.com/hschoofs/SPEC3_trigger/blob/master/SPEC3_trigger/zip/SPEC3_trigger.zip",
           "archiveFileName": "SPEC3_trigger.zip",
           "checksum": "SHA-256:16df33b27c2c2a4305ce797bf18a99a00183f34ee2ac9325ed5347d6bbf72add",
           "size": "4278841",
