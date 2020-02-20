@@ -4,6 +4,7 @@
     {
       "name": "SEPC3_trigger",
       "maintainer": "Henrik",
+      "websiteURL": "https://github.com/hschoofs/SPEC3_trigger",
       "email" : "henrik.schoofs@hoschschule-rhein-waal.de",
       "platforms":
       [
