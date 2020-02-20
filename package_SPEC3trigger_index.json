@@ -15,8 +15,8 @@
           "category": "Contributed",
           "url": "https://github.com/hschoofs/SPEC3_trigger/raw/master/SPEC3_trigger/zip/SPEC3_trigger.zip",
           "archiveFileName": "SPEC3_trigger.zip",
-          "checksum": "SHA-256:16df33b27c2c2a4305ce797bf18a99a00183f34ee2ac9325ed5347d6bbf72add",
-          "size": "4278841",
+          "checksum": "SHA-256:75535714a6da972713d2f3c5d512189d85ed5a400eefc07b723178ab5c376dfd",
+          "size": "4278872",
           "boards": [
             {
               "name": "SPEC3_trigger"
