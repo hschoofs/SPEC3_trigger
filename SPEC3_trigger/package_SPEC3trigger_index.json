@@ -1,0 +1,60 @@
+{
+  "packages":
+  [
+    {
+      "name": "SEPC3_trigger",
+      "maintainer": "Henrik",
+      "websiteURL": "https://github.com/hschoofs/SPEC3_trigger",
+      "email" : "henrik.schoofs@hoschschule-rhein-waal.de",
+      "platforms":
+      [
+        {
+          "name": "SPEC3_trigger Boards",
+          "architecture": "samd",
+          "version": "0.0.1",
+          "category": "Contributed",
+          "url": "https://github.com/hschoofs/SPEC3_trigger/raw/master/SPEC3_trigger/zip/SPEC3_trigger.zip",
+          "archiveFileName": "SPEC3_trigger.zip",
+          "checksum": "SHA-256:16df33b27c2c2a4305ce797bf18a99a00183f34ee2ac9325ed5347d6bbf72add",
+          "size": "4278841",
+          "boards": [
+            {
+              "name": "SPEC3_trigger"
+            }
+          ],
+          "toolsDependencies":
+          [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "7-2017q4"
+            },
+            {
+              "packager": "arduino",
+              "name": "bossac",
+              "version": "1.8.0-48-gb176eee"
+            },
+            {
+              "packager": "arduino",
+              "name": "openocd",
+              "version": "0.10.0-arduino9"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS",
+              "version": "4.5.0"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS-Atmel",
+              "version": "1.2.0"
+            }
+          ]
+        }
+      ],
+      "tools":
+      [
+      ]
+    }
+  ]
+}
